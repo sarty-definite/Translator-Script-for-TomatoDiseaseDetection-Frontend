@@ -1,1 +1,1 @@
-# Translator-Script-for-TomatoDiseaseDetection-Frontend
+# Translator Script for Tomato Disease Detection Frontend
